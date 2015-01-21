@@ -5,6 +5,7 @@ First released in May of 2005 as a UPnP A/V Media Server (and later updated to a
 
 The TVersity Media Server comes in two editions, a free version is available for download [here](http://tversity.com/download/#MediaServer) and a Pro version is available for purchase [here](http://tversity.com/pro#MediaServer).
 
+<img src="http://static.tversity.com/media_sharing.jpg" style="max-width:100%;margin-left:auto;margin-right:auto; display:block"/>
 
 # Features
     
