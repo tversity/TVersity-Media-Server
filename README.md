@@ -1,13 +1,12 @@
 # TVersity-Media-Server
+
+![](http://static.tversity.com/media_sharing.jpg)
+
 [TVersity Media Server](http://tversity.com/) is a [DLNA media server software](http://tversity.com/) designed for streaming video, audio and images to your DLNA device (including game consoles, smart TVs, Blu-ray players, and Roku), to mobile devices and to Chromecast. It also supports [web content](http://tversity.com/support/premium-websites/) including Adobe Flash based content, Podcasts, RSS feeds and more. 
 
 First released in May of 2005 as a UPnP A/V Media Server (and later updated to a DLNA media server), the TVersity Media Server was the first media server to support on-the-fly transcoding so that virtually any content could play on any supported device. This real-time tranbscoding has been a unique feature of TVersity for many years and remains one of its distinguishing capabilities to date.
 
 The TVersity Media Server comes in two editions, a free version is available for download [here](http://tversity.com/download/#MediaServer) and a Pro version is available for purchase [here](http://tversity.com/pro#MediaServer).
-
-<img src="http://static.tversity.com/media_sharing.jpg" style="max-width:100%;margin-left:auto;margin-right:auto; display:block"/>
-
-![](http://static.tversity.com/media_sharing.jpg)
 
 # Features
     
