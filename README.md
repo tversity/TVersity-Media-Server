@@ -7,6 +7,8 @@ The TVersity Media Server comes in two editions, a free version is available for
 
 <img src="http://static.tversity.com/media_sharing.jpg" style="max-width:100%;margin-left:auto;margin-right:auto; display:block"/>
 
+![](http://static.tversity.com/media_sharing.jpg)
+
 # Features
     
 **Full Featured DLNA Media Server** --- TVersity is a leading UPnP A/V and DLNA Media Server (since 2005).
