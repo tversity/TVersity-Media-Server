@@ -1,14 +1,14 @@
 # TVersity-Media-Server
-[TVersity Media Server](http://tversity.com/) is a [DLNA media server software](http://tversity.com/) designed for streaming video, audio and images to your DLNA device (including game consoles, smart TVs, Blu-ray players, and Roku), to mobile devices and to Chromecast. It also supported [web content](http://tversity.com/support/premium-websites/) including Adobe Flash based content, Podcasts, RSS feeds and more. 
+[TVersity Media Server](http://tversity.com/) is a [DLNA media server software](http://tversity.com/) designed for streaming video, audio and images to your DLNA device (including game consoles, smart TVs, Blu-ray players, and Roku), to mobile devices and to Chromecast. It also supports [web content](http://tversity.com/support/premium-websites/) including Adobe Flash based content, Podcasts, RSS feeds and more. 
 
-First released in May of 2005 as a UPnP A/V Media Server (and later updated to a DLNA media server), the TVersity Media Server was the first media server to support on-the-fly transcoding so that virtually any content could play on any supported device.
+First released in May of 2005 as a UPnP A/V Media Server (and later updated to a DLNA media server), the TVersity Media Server was the first media server to support on-the-fly transcoding so that virtually any content could play on any supported device. This real-time tranbscoding has been a unique feature of TVersity for many years and remains one of its distinguishing capabilities to date.
 
-The TVersity Media Server comes in two editions, a free version available for download [here](http://tversity.com/download/#MediaServer) and a paid version available for purchase [here](http://tversity.com/pro#MediaServer).
+The TVersity Media Server comes in two editions, a free version is available for download [here](http://tversity.com/download/#MediaServer) and a Pro version is available for purchase [here](http://tversity.com/pro#MediaServer).
 
 
 # Features
     
-    **Full Featured DLNA Media Server** --- TVersity is a leading UPnP A/V and DLNA Media Server (since 2005).
+ * **Full Featured DLNA Media Server** --- TVersity is a leading UPnP A/V and DLNA Media Server (since 2005).
 
     **Personal Media** --- Access your collection of photos, music and videos on any supported device.
 
@@ -42,12 +42,12 @@ The TVersity Media Server comes in two editions, a free version available for do
 
     **Manage cache of transcoded media** --- No need to transcode the same media twice.
 
-    **Pause Live Internet feeds just like with Tivo** --- Watching live Internet TV and listening to live radio stations have never been so much fun.
+**Pause Live Internet feeds just like with Tivo** --- Watching live Internet TV and listening to live radio stations have never been so much fun.
 
-    **Runs as a service** --- You no longer need to log on to your computer for the media server to start.
+**Runs as a service** --- You no longer need to log on to your computer for the media server to start.
         
-        **Raw digital camera image support** --- crw, cr2, nef, nrw, mrw, orf, raf, dng, erf, x3f, dcr arw, raw, kdc.
+**Raw digital camera image support** --- crw, cr2, nef, nrw, mrw, orf, raf, dng, erf, x3f, dcr arw, raw, kdc.
 
-        **Supports Plugins** --- Plugins allow integration with external media sources. The software ships with an iTunes plugin for automatic importing of your iTunes library (including playlists) and for staying in synch with it.
+**Supports Plugins** --- Plugins allow integration with external media sources. The software ships with an iTunes plugin for automatic importing of your iTunes library (including playlists) and for staying in synch with it.
 
 You can learn more about the features of the media server [here](http://tversity.com/download/features/).
