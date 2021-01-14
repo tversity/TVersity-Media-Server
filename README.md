@@ -34,7 +34,7 @@ The TVersity Media Server comes in two editions, a free version is available for
 
 **Command line interface** --- Command line tools are available for automating tasks and integration with other tools.
 
-**REST API** - The Media Server can be easily integrated with other tools and participate in custom workflows, thanks to its advanced [REST API](http://ronenmiz.github.io/TVersity/Server_API/group___h_t_t_p___q_u_e_r_y___a_p_i.html).
+**REST API** - The Media Server can be easily integrated with other tools and participate in custom workflows, thanks to its advanced [REST API](http://tversity.github.io/TVersity-Media-Server/API/group___h_t_t_p___q_u_e_r_y___a_p_i.html).
 
 **Supports multiple devices simultaneously** --- Connect every room with a TV and other connected devices to the same media server, each device gets the metadata and media in a form optimized specifically for it.
 
